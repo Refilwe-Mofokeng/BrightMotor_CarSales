@@ -84,7 +84,7 @@ Dashboard includes:
 - Customer purchasing behaviour
 
 **Dashboard Link:**  
-[https://datastudio.google.com/reporting/d5213f97-f41d-4ec6-a506-b0f03576a6e1]
+[https://datastudio.google.com/s/jJSIDHtL87I]
 
 ### 6. Insights & Presentation
 - Synthesised findings into executive-level business insights
